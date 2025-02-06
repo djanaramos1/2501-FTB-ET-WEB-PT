@@ -23,5 +23,4 @@ alert(
   let strg2= 25;
   let strg3= 9;
   console.log(strg1 + strg2 + strg3)
-
-  //=== strictly equals one, making the if statement true and output 1
+  //Expected output is 39 because the value of the three strings are added equaling 39
