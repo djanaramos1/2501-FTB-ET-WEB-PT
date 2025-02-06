@@ -1,0 +1,24 @@
+h2 {
+    display: inline-flexbox;
+    background-color: #FFE5F4;
+    color: white;
+    font-size: x-large;
+    padding: 15px 20px;
+  }
+  img{
+    padding-top: 20px;
+    padding-bottom: 20 px;
+
+  }
+  .container{
+    background-color:#bdf5bd ;
+    border-spacing: 10px;
+  }
+  .fruit{
+    background-color: #bdf5bd;
+    border-spacing: 10px;
+  }
+  .meat{
+    background-color:#bdf5bd ;
+    border-spacing: 10px;
+  }
