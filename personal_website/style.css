@@ -1,0 +1,39 @@
+nav{
+    background-color: #55a8fc;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    border-style: outset;
+}
+.mainrunner{
+    border: 1px solid #000;
+}
+.me{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 20%;
+}
+.name{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+}
+.language{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    color: #55a8fc;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
